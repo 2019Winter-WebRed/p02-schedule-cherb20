@@ -1,0 +1,26 @@
+/*
+* Cristina Herb
+* 3/25/19
+* Schedule 
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body {
+background-color: #FCFFB9;} /* This changes the color of the web page */
+
+table, td, th { border: 2px solid gray; } /* This changes the colors of the border of the table */
+
+table { border-collapse: collapse;} /* this collapses the border to get rid of the lines in between the borders */
+
+thead { 
+    background-color: black; /* this changes the color for the background of the heading */
+    color: white} /* this changes the color for the text of the heading */
+
+tfoot { background-color: white;} /* this changes the color for the background of the footing */
